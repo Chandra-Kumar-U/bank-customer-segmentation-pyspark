@@ -1,0 +1,26 @@
+customer_id,customer_name,age,city,account_type,balance,monthly_income,monthly_expenses,num_products,credit_score,years_with_bank,num_transactions
+C001,Rahul Sharma,35,Mumbai,Savings,150000,55000,35000,3,750,5,45
+C002,Priya Patel,28,Delhi,Current,80000,40000,30000,2,680,2,30
+C003,Amit Singh,42,Bangalore,Savings,350000,85000,45000,4,800,8,60
+C004,Sneha Reddy,31,Hyderabad,Savings,45000,30000,25000,1,620,3,20
+C005,Vikram Mehta,50,Chennai,Current,500000,120000,60000,5,850,12,80
+C006,Ananya Gupta,26,Pune,Savings,25000,25000,22000,1,590,1,15
+C007,Rohit Kumar,38,Mumbai,Current,200000,70000,40000,3,720,6,50
+C008,Deepa Nair,33,Bangalore,Savings,120000,50000,32000,2,700,4,35
+C009,Karan Shah,45,Delhi,Current,450000,100000,55000,4,820,10,70
+C010,Meera Joshi,29,Mumbai,Savings,60000,35000,28000,2,650,2,25
+C011,Arun Verma,41,Chennai,Savings,280000,80000,42000,3,760,7,55
+C012,Kavya Rao,36,Hyderabad,Current,380000,90000,48000,4,790,6,65
+C013,Suresh Iyer,52,Pune,Savings,600000,130000,65000,5,870,15,90
+C014,Pooja Menon,27,Mumbai,Savings,35000,28000,24000,1,610,1,18
+C015,Rajesh Pillai,44,Delhi,Current,420000,95000,52000,4,810,9,72
+C016,Nisha Sharma,30,Bangalore,Savings,55000,32000,27000,2,640,3,22
+C017,Manoj Tiwari,39,Chennai,Current,240000,75000,43000,3,740,7,48
+C018,Divya Krishnan,48,Pune,Savings,550000,115000,58000,5,840,11,85
+C019,Sanjay Dubey,25,Mumbai,Savings,20000,22000,20000,1,580,1,12
+C020,Preethi Nair,37,Delhi,Current,310000,82000,44000,3,770,6,58
+C021,Harish Menon,43,Bangalore,Savings,400000,92000,50000,4,800,8,68
+C022,Lakshmi Iyer,34,Hyderabad,Current,175000,60000,38000,2,710,5,40
+C023,Ganesh Kumar,46,Chennai,Savings,480000,105000,56000,4,825,10,75
+C024,Swathi Reddy,32,Pune,Savings,90000,42000,31000,2,670,3,28
+C025,Venkat Rao,55,Mumbai,Current,700000,150000,70000,5,880,18,95
